@@ -1,0 +1,79 @@
+[
+    [
+        "PA00100200307",
+        "Paul",
+        "Atreides",
+        "paul@melange.com",
+        "Python for Data Science"
+    ],
+    [
+        "AL00100200310",
+        "Ada",
+        "Lovelace",
+        "motherof@computing.com",
+        "Software Engineering"
+    ],
+    [
+        "LS00100200317",
+        "Leia",
+        "Skywalker",
+        "leader@rebels.com",
+        "Machine Learning"
+    ],
+    [
+        "JB00100200320",
+        "Johnny",
+        "Bravo",
+        "jb@cn.com",
+        "SQL"
+    ],
+    [
+        "PB00100200321",
+        "Pinky",
+        "Brain",
+        "pinky@brain.com",
+        "Python for Data Science"
+    ],
+    [
+        "JS00100200323",
+        "Jane",
+        "Smith",
+        "professor@who.com",
+        "Database Management"
+    ],
+    [
+        "WT00100200327",
+        "Wimbledon",
+        "Tennismatch",
+        "wimbeldon@strange.com",
+        "SQL"
+    ],
+    [
+        "AS00100200312",
+        "Anthony",
+        "Stark",
+        "ironman@marvel.com",
+        "Web Dev Fundamentals"
+    ],
+    [
+        "OK00100200318",
+        "Obi-Wan",
+        "Kenobi",
+        "hellothere@jedicouncil.com",
+        "Advanced Programming"
+    ],
+    [
+        "FM00100200325",
+        "Frederick",
+        "Mercury",
+        "rhapsody@queen.com",
+        "Advanced Programming"
+    ],
+    [
+        "WT00100200327",
+        "Wimbledon",
+        "Tennismatch",
+        "wimbeldon@strange.com",
+        "Python for Data Science"
+    ]
+]
