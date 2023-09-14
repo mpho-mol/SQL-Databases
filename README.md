@@ -11,4 +11,5 @@ This task is an application of file formats and relational databases. A database
 - Listing all of the students who finished their course and got a mark of 30 or 
   below where the student number, first names and surnames, email addresses and 
   marks are displayed on the console
-The functionailty of the code of saving the results of a query in XML?JSON form were tested and saved as results.xml and results.json.
+
+The functionailty of the code of saving the results of a query in XML/JSON form were tested and saved as results.xml and results.json.
