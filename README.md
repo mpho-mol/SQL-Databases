@@ -5,11 +5,11 @@ This task is an application of file formats and relational databases. A database
   and city are displayed on the console.
 - Itemising all of the course taught by a certain teacher searched using the 
   teacher ID where the course name is shown on the console.
-- Listing all of the learners whoses course are incomplete by showing the student 
+- Listing all of the learners whose courses are incomplete by showing the student 
   number, first and last names, email addresses and course names are shown on the 
   console.
 - Listing all of the students who finished their course and got a mark of 30 or 
   below where the student number, first names and surnames, email addresses and 
   marks are displayed on the console
 
-The functionailty of the code of saving the results of a query in XML/JSON form were tested and saved as results.xml and results.json.
+The functionality of the code of saving the results of a query in XML/JSON form were tested and saved as results.xml and results.json.
